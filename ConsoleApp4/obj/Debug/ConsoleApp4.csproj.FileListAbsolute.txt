@@ -1,0 +1,8 @@
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\siste\Downloads\ejercicio_6\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

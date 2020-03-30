@@ -1,0 +1,53 @@
+{"colaboradores":
+  [
+    {"ColaboradorID":"1121", 
+  "Estado":
+  ["Activo",
+   "2020-03-27 08:30:00"]},
+  {"ColaboradorID":"1121", 
+  "Estado":
+  ["Inactivo",
+   "2020-03-27 09:30:00"]},
+  {"ColaboradorID":"1121", 
+  "Estado":
+  ["Activo",
+   "2020-03-27 10:30:00"]},
+  {"ColaboradorID":"1121", 
+  "Estado":
+  ["Inactivo",
+   "2020-03-27 12:00:00"]},
+  {"ColaboradorID":"1121", 
+  "Estado":
+  ["Activo",
+   "2020-03-27 12:30:00"]},
+  {"ColaboradorID":"1121", 
+  "Estado":
+  ["Inactivo",
+   "2020-03-27 17:30:00"]},
+    {"ColaboradorID":"1124", 
+  "Estado":
+  ["Activo",
+   "2020-03-27 08:30:00"]},
+  {"ColaboradorID":"1124", 
+  "Estado":
+  ["Inactivo",
+   "2020-03-27 09:30:00"]},
+  {"ColaboradorID":"1124", 
+  "Estado":
+  ["Activo",
+   "2020-03-27 10:30:00"]},
+  {"ColaboradorID":"1124", 
+  "Estado":
+  ["Inactivo",
+   "2020-03-27 12:00:00"]},
+  {"ColaboradorID":"1124", 
+  "Estado":
+  ["Activo",
+   "2020-03-27 12:30:00"]},
+  {"ColaboradorID":"1124", 
+  "Estado":
+  ["Inactivo",
+   "2020-03-27 17:30:00"]}
+]
+
+}
